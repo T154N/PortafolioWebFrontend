@@ -4,7 +4,7 @@
 }
 
 div{
-    background-color: #0B132B;
+    background-color: #251F47;
     text-align: center;
 }
 /*Etiqueta nombre*/
@@ -12,13 +12,13 @@ div{
     font-weight: bold;
     margin-top: 10%;
     margin-left: 5px;
-    color: #9bdf35;
+    color: #98CE00;
 }
 #caracteristica{
     font-weight: bold;
     margin-top: 5%;
     margin-left: 5px;
-    color: #9bdf35;
+    color: #98CE00;
 
 }
 
@@ -58,9 +58,10 @@ div{
 
 #titulo{
     font-family: 'Syne', sans-serif;
-    color: #5BC0BE;
+    color: #EAC435;
+    letter-spacing: 4px;
 }
 
 #texto{
-    color: #fff;
+    color: #EDF2F4;
 }
