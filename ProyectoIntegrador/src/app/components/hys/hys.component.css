@@ -1,0 +1,27 @@
+.row{
+    background-color: #251F47;
+    margin: 0;
+    padding: 20px;
+}
+h1{
+    color: #EAC435;
+    padding-left: 2.5%;
+    padding-bottom: 2.5%;
+    padding-top: 2.5%;
+}
+
+.tittle{
+    transition: 0.3s;
+    letter-spacing: 4px;
+}
+.tittle:hover{
+    padding-left: 4%;
+}
+
+.circle{
+    transition: 0.9;
+}
+
+.circle:hover{
+    width: 120%;
+}
